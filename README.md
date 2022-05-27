@@ -1,4 +1,4 @@
-Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
 # yarn start
@@ -12,7 +12,7 @@ You will also see any lint errors in the console.
 Launches the server runner at http://localhost:3333
 
 
-yarn build
+ # yarn build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -21,7 +21,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-yarn eject
+# yarn eject
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
